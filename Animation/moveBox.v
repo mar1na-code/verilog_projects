@@ -1,7 +1,4 @@
 
-// Paul Chow
-// November 2021
-//
 
 // iColour is the colour for the box
 //

@@ -1,8 +1,4 @@
- 
-//
-// Paul Chow
-// November 2021
-//
+
 
 module drawBox(go, erase, iClock, iResetn, iColour, iX, iY, X_DIM, Y_DIM, oX, oY, oColour, oPlot, oDone);
    parameter X_SCREEN_PIXELS = 10'd640;
